@@ -54,6 +54,12 @@
   background-color: #2f80ed;
   min-width: 385px;
   min-height: 60px;
+  transition: opacity 0.3s ease-in;
+}
+
+.form__button:hover {
+  opacity: 70%;
+  cursor: pointer;
 }
 
 .form__checkbox {
