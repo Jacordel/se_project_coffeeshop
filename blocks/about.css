@@ -1,6 +1,5 @@
 .about {
   background-color: #0a2850;
-  background-image: url();
   padding: 100px 0 0;
   position: relative;
   z-index: 1;
@@ -11,8 +10,7 @@
 }
 
 .about__title {
-  font-family: "Inter";
-  font-style: normal;
+  font-family: Inter, Arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -31,9 +29,7 @@
 }
 
 .about__paragraph {
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-size: 20px;
   line-height: 30px;
   color: #fff;
